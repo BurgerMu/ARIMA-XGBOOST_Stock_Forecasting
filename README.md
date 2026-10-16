@@ -1,7 +1,7 @@
 # ARIMA-XGBOOST_Stock_Forecasting
 # S&P 500 Stock Market Forecasting: Traditional Statistics vs. Machine Learning
 
-![Open In Colab](https://colab.research.google.com/drive/1CagD6sNPB9wwc7uGLVzKv8xuKUh5ak-a?usp=sharing)
+[Open In Colab](https://colab.research.google.com/drive/1CagD6sNPB9wwc7uGLVzKv8xuKUh5ak-a?usp=sharing)
 
 ---
 
