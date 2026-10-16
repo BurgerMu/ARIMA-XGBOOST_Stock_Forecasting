@@ -1,7 +1,7 @@
 # ARIMA-XGBOOST_Stock_Forecasting
 # S&P 500 Stock Market Forecasting: Traditional Statistics vs. Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/drive/1CagD6sNPB9wwc7uGLVzKv8xuKUh5ak-a?usp=sharing)
+![Open In Colab](https://colab.research.google.com/drive/1CagD6sNPB9wwc7uGLVzKv8xuKUh5ak-a?usp=sharing)
 
 ---
 
@@ -51,14 +51,7 @@ Predicting the stock market is difficult because stock prices generally trend up
 
 ## How to Run This Project
 
-### Option 1: Open in Google Colab (Recommended)
+### Open in Google Colab
 1. Click the "Open In Colab" badge at the top of this page.
 2. Sign in with your Google account.
 3. Click "Runtime" in the top menu and select "Run all".
-
-### Option 2: Run Locally
-1. Clone this repository to your computer:
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
-2. Install the required Python packages:
-   pip install pandas numpy matplotlib statsmodels pmdarima xgboost scikit-learn
-3. Open and run the Jupyter Notebook in your environment.
