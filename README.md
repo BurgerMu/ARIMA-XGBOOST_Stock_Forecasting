@@ -1,11 +1,6 @@
 # ARIMA-XGBOOST_Stock_Forecasting
 # 📈 S&P 500 Time-Series & Machine Learning Forecasting Engine (1927–2026)
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat)](https://xgboost.readthedocs.io/)
-
 An end-to-end quantitative time-series forecasting and machine learning pipeline for predicting monthly S&P 500 (`^GSPC`) index closing levels over a 24-month horizon. This project contrasts classical econometric modeling (**auto-ARIMA / SARIMAX**) with modern ensemble gradient boosting (**XGBoost**) using nearly a century of historical data (1928 to present).
 
 ---
